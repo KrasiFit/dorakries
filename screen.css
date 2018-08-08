@@ -316,7 +316,7 @@ a:hover {
   .sidenav a {font-size: 18px;}
   
 }
-@media screen and (max-device-width: 450px) and (orientation:portrait) {
+@media screen and (min-device-width: 450px) and (orientation:portrait) {
 
     .aboutimage {
       float: left;
